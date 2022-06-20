@@ -27,5 +27,6 @@
         "eslint-plugin-react-hooks": "^4.5.0",
         "eslint-plugin-tsdoc": "^0.2.16",
         "prettier": "^2.6.2"
-    }
+    },
+    "packageManager": "yarn@3.2.0"
 }
