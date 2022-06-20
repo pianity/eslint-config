@@ -122,6 +122,8 @@ __metadata:
     eslint-plugin-react-hooks: ^4.5.0
     eslint-plugin-tsdoc: ^0.2.16
     prettier: ^2.6.2
+  peerDependencies:
+    eslint: ^8.16.0
   languageName: unknown
   linkType: soft
 
