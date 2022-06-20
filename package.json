@@ -27,11 +27,11 @@
         "eslint-plugin-tsdoc": "^0.2.16"
     },
     "devDependencies": {
-        "prettier": "^2.6.2",
-        "eslint": "^8.16.0"
+        "eslint": "^8.16.0",
+        "prettier": "^2.6.2"
     },
     "peerDependencies": {
-        "eslint": "^8.16.0",
+        "eslint": "^8.16.0"
     },
     "packageManager": "yarn@3.2.0"
 }
