@@ -45,6 +45,7 @@ module.exports = {
                 patterns: [".", "../*", "./*"],
             },
         ],
+        "no-warning-comments": "warn",
         "no-underscore-dangle": ["off"],
         "class-methods-use-this": ["off"],
         "linebreak-style": ["error", "unix"],
