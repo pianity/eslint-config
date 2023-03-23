@@ -1,6 +1,6 @@
 {
     "name": "@pianity/eslint-config",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Pianity's eslint shared config",
     "author": "Eyal Chojnowski <eyal@pianity.com>",
     "license": "MIT",
